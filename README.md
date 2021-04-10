@@ -8,6 +8,8 @@ Here is a demo of the agents in action.
 
 [Agents in live coding demo](https://vimeo.com/447733242)
 
+# Install instructions
+
 The computational tool provided in this repository is to be used in the Extempore live coding environment.
 
 The following are the requirements which must be install before using this tool: 
