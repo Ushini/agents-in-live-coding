@@ -1,4 +1,12 @@
-#Agents in Improvisational Live Coding
+# Agents in Improvisational Live Coding
+
+I started live coding (making improvisatory music with code) a few year ago. Being a baby dear at live coding, it took me a long time to implement the sonic components of my piece and I would often get into creative ruts during a performance. I wanted to build an agent which would a) help get my creative juices flowing b) give me a way of quickly sonifying ideas. Reader, you are sitting inside a repo of my proposed solution. I created two versions of a computational agent. The agent uses Markov Chains to generate modifications to the code inside a live coders editor. One version of the agent displays the modified code in the editor at which point the live coder can choose to execute and sonify it. The other version directly sonifies the modified code, so the live coder can only hear the modifications the agent made.
+
+# Demo Video
+
+Here is a demo of the agents in action.
+
+[Agents in live coding demo](https://vimeo.com/447733242)
 
 The computational tool provided in this repository is to be used in the Extempore live coding environment.
 
